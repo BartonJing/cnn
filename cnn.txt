@@ -1,0 +1,10 @@
+http://baijiahao.baidu.com/s?id=1600127858378460082&wfr=spider&for=pc     卷积神经网络博客
+https://blog.csdn.net/meyh0x5vDTk48P2/article/details/79050148           卷积神经网络博客
+
+http://scs.ryerson.ca/~aharley/vis/conv/flat.html  cnn 训练网站
+
+http://www.cnblogs.com/charlotte77/p/5629865.html  cnn 反向传播
+
+
+https://segmentfault.com/a/1190000014689321          python cnn 示例
+https://github.com/ahmedfgad/NumPyCNN?spm=a2c4e.11153940.blogcont585741.10.5d581357C2a3Rl
